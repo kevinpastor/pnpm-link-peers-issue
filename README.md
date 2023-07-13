@@ -1,6 +1,6 @@
 # PNPM Link Peers Issue
 
-This project has been created in order to present an issue when linking a library that has peer dependencies.
+This project has been created in order to present an issue when linking a library that has peer dependencies using PNPM.
 
 ## Problem
 
